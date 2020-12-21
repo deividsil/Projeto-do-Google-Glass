@@ -1,2 +1,2 @@
 # Projeto do Google Glass
- Primeiro Projeto
+ Primeiro Projeto feito pelo curso em video muito bom.
